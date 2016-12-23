@@ -34,3 +34,10 @@ nav:hover {
   height: 400px;
   width: 25%;
 }
+
+footer {
+  background: grey;
+  height: 50px;
+  margin-top: 25px;
+  text-align: center;
+}
