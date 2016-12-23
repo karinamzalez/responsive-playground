@@ -16,3 +16,21 @@ nav {
 nav:hover {
   color: white;
 }
+
+.container {
+  height: 400px;
+}
+
+.main-content {
+  background-color: aquamarine;
+  float: left;
+  height: 400px;
+  width: 75%;
+}
+
+.secondary-content {
+  background-color: cadetblue;
+  float: right;
+  height: 400px;
+  width: 25%;
+}
